@@ -1,0 +1,1 @@
+{'init_type': 0, 'nstates': 2, 'rep': 1, 'istate': 0, 'ntraj': 1, 'ndia': 2, 'nadi': 2}
